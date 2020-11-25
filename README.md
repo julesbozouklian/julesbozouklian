@@ -1,5 +1,5 @@
 ### Hi there 👋
-![julesbozouklian github stats](https://github-readme-stats.vercel.app/api?username=julesbozouklian)
+![julesbozouklian github stats](https://github-readme-stats.vercel.app/api?username=julesbozouklian&show_icons=true&theme=radical)
 <!--
 **julesbozouklian/julesbozouklian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
