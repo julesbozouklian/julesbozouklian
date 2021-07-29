@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - ⚡ Passionate about cybersecurity, devops and innovation
-- 🔭 I’m currently working on Industrial Cybersecurity
+- 🔭 I’m currently working on Industrial Cybersecurity field for Eiffage Energie Système - Clemessy
 - 📫 How to reach me **jules.bozouklian@epitech.eu**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=julesbozouklian&&count_private=true&show_icons=true&theme=tokyonight" alt="julesbozouklian" /></p>
