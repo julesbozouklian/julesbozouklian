@@ -2,6 +2,7 @@
 
 - ⚡ Passionate about cybersecurity, devops and innovation
 - 🔭 I’m currently working on Industrial Cybersecurity field for <a href="https://www.clemessy.com/industries-du-futur/cybersecurite-des-systemes-industriels">Eiffage Energie Système - Clemessy</a>
+- 🌱 Member of the Google Developer Group Strasbourg and Clusir Est
 - 📫 How to reach me **jules.bozouklian@epitech.eu**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=julesbozouklian&&count_private=true&show_icons=true&theme=tokyonight" alt="julesbozouklian" /></p>
