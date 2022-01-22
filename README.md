@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Industrial Cybersecurity field for <a href="https://www.clemessy.com/industries-du-futur/cybersecurite-des-systemes-industriels" target="_blank">Eiffage Energie Système - Clemessy</a>
 - 🌱 Member of the <a href="https://gdgstrasbourg.fr/">Google Developer Group Strasbourg</a> and <a href="http://clusir-est.org/public/Bienvenue.html">Clusir Est</a>
 - 📫 Reach me at **jules.bozouklian@epitech.eu**
-- 💻 My blog and portfolio https://julesbozouklian.fr
+- 💻 My website https://julesbozouklian.fr
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=julesbozouklian&&count_private=true&show_icons=true&theme=tokyonight" alt="julesbozouklian" /></p>
 
