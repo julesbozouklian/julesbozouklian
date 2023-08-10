@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - ⚡ Passionate about cybersecurity, red team, devsecops and innovation
-- 🔭 I’m currently working on Industrial Cybersecurity field for <a href="https://www.clemessy.com/industries-du-futur/cybersecurite-des-systemes-industriels" target="_blank">Eiffage Energie Systèmes</a>
+- 🔭 I’m currently working in OT Cybersecurity for <a href="https://www.clemessy.com/industries-du-futur/cybersecurite-des-systemes-industriels" target="_blank">Eiffage Energie Systèmes</a>
 - 👨🏽‍🎓 Alumni of EPITECH Strasbourg
 - 🌱 Member of the <a href="https://gdgstrasbourg.fr/">Google Developer Group Strasbourg</a> and <a href="http://clusir-est.org/public/Bienvenue.html">Clusir Est</a>
 - 📫 Reach me at **hello@julesbozouklian.fr**
